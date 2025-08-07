@@ -12,6 +12,10 @@
 - Minimal spacing
 - Tenting puck compatible
 
+## Firmware
+
+[Example zmk configuration](https://github.com/erhickey/keyboards/tree/main/t_rexth_30)
+
 ### Notes
 
 This was my first attempt at building a custom keyboard, and has a couple issues:
